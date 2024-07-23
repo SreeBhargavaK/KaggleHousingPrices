@@ -1,2 +1,2 @@
-# KaggleHousingPrices
-KaggleHousingPrices
+# HousingPrices
+HousingPrices
